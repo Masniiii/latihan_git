@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>paskibra</h1>
+    <h1>paskibbra</h1>
     <h2>Contoh</h2>
 </body>
 </html>
